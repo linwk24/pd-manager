@@ -1,3 +1,10 @@
+<img width="1399" height="870" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/16e9dffb-7c1d-44bd-8208-4c25a14f5be3" />
+<img width="1675" height="842" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/28b87b74-85cd-4b4a-bf48-2debcf94f899" />
+<img width="1788" height="690" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/fd566239-e205-4f28-83e5-4cef2f63d311" />
+<img width="1641" height="720" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/34ccdcde-bbd2-41be-b4a5-bf9adcd7aa6e" />
+
+
+
 # projects
 
 这是一个基于 [Next.js 16](https://nextjs.org) + [shadcn/ui](https://ui.shadcn.com) 的全栈应用项目。
